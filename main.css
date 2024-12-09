@@ -25,9 +25,9 @@ body{
   background-color: var(--Grey-800);
   margin: 0 auto;
   max-width: 360px;
-  height: 95vh;
+  height: 570px;
   position: relative;
-  top: 157px;
+  top: 170px;
   border-radius: 20px;
 }
 .photo img{
